@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LeifStiel.aternos.me",
-    "port": 24887,
+    "ip": "StrengthMps.aternos.me",
+    "port": 59310,
     "version": "",
     "try-creative": false
   },
